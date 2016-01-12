@@ -11,5 +11,4 @@ Map classes are free software; you can redistribute and/or modify them under the
 [Consult the licence on the FSF website](http://www.gnu.org/licenses/lgpl-3.0.txt).
 
 Copyright (c) 2015, University of Grenoble Alpes, CNRS and Inria, All rights reserved.
-Dominique Vaufreydaz <dominique.vaufreydaz@inria.fr>
-Aumaury Negre <amaury.negre@imag.fr>
+Dominique Vaufreydaz <dominique.vaufreydaz@inria.fr>, Aumaury Negre <amaury.negre@imag.fr>
