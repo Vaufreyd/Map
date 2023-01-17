@@ -10,5 +10,5 @@ You can browse the git repository here on GitHub, submit patches and push reques
 Map classes are free software; you can redistribute and/or modify them under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 [Consult the licence on the FSF website](http://www.gnu.org/licenses/lgpl-3.0.txt).
 
-Copyright (c) 2015, University of Grenoble Alpes, CNRS and Inria, All rights reserved.
-Dominique Vaufreydaz <dominique.vaufreydaz@inria.fr>, Aumaury Negre <amaury.negre@imag.fr>
+Copyright (c) 2015, Univ. Grenoble Alpes, CNRS and Inria, All rights reserved.
+Dominique Vaufreydaz <dominique.vaufreydaz@univ-grenoble-alpes.fr>, Aumaury Negre <amaury.negre@imag.fr>
